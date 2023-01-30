@@ -1,0 +1,10 @@
+.mainPage{
+    font-family: "Poppins";
+    height: calc(100vh - 20px);
+    width: 100%;
+    background:
+      url(images/bg1.png) left top no-repeat,
+      url(images/bg2.png) right top no-repeat,
+      url(images/bg3.png) left bottom no-repeat,
+      url(images/bg4.png) right bottom no-repeat;
+}
